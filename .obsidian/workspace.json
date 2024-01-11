@@ -11,9 +11,11 @@
             "id": "6d28910c1f5d3f66",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "개발 일기장 (TIL)/2024_01"
+                "file": "개발 일기장 (TIL)/2024_01/2024-01-10.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "개발 일기장 (TIL)/2024_01/2024-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "개발 일기장 (TIL)/2024_01/2024-01-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "개발 일기장 (TIL)/2024_01/2024-01-10.md"
+              }
             }
           }
         ]
@@ -152,11 +158,11 @@
   "active": "6d28910c1f5d3f66",
   "lastOpenFiles": [
     "개발 일기장 (TIL)/2024_01/2024-01-10.md",
+    "개발 일기장 (TIL)/2024_01/2024-01-11.md",
     "Spaces/Home",
     "Spaces",
     "README.md",
     "개발 일기장 (TIL)/2024_01",
-    "개발 일기장 (TIL)/2024_01/2024-01-11.md",
     "개발 일기장 (TIL)"
   ]
 }

@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,11 +166,16 @@
   },
   "active": "1546f1a361000a02",
   "lastOpenFiles": [
-    "개발 일기장 (TIL)/2024_01/2024-01-13.md",
+    "Pasted image 20240114171742.png",
+    "![[Pasted.md",
     "개발 일기장 (TIL)/2024_01/2024-01-14.md",
+    "Pasted image 20240114171735.png",
+    "Java/Java.md",
+    "Java",
     "개발 일기장 (TIL)/2024_01/2024-01-12.md",
     "개발 일기장 (TIL)/2024_01/2024-01-11.md",
     "개발 일기장 (TIL)/2024_01/2024-01-10.md",
+    "개발 일기장 (TIL)/2024_01/2024-01-13.md",
     "Untitled.canvas",
     "개발 일기장 (TIL)/무제 파일.md",
     "Vault.md",

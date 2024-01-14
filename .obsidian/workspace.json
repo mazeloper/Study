@@ -11,11 +11,9 @@
             "id": "1546f1a361000a02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "개발 일기장 (TIL)/2024_01/2024-01-14.md",
-                "mode": "source",
-                "source": false
+                "path": "Tech"
               }
             }
           }
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발 일기장 (TIL)/2024_01/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발 일기장 (TIL)/2024_01/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "개발 일기장 (TIL)/2024_01/2024-01-14.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,27 +158,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1546f1a361000a02",
+  "active": "d6da865529cf8a10",
   "lastOpenFiles": [
-    "개발 일기장 (TIL)/2024_01/2024-01-13.md",
-    "개발 일기장 (TIL)/2024_01/2024-01-14.md",
-    "개발 일기장 (TIL)/2024_01/2024-01-12.md",
+    "Tech/개발 일기장 (TIL)/2024_01/2024-01-14.md",
+    "Tech/Tech.md",
+    "Tech",
+    "Tech/개발 일기장 (TIL)/2024_01/2024-01-13.md",
+    "Tech/개발 일기장 (TIL)/2024_01/2024-01-12.md",
     "![[Pasted.md",
     "Pasted image 20240114171742.png",
     "Pasted image 20240114171735.png",
-    "Java/Java.md",
-    "Java",
-    "개발 일기장 (TIL)/2024_01/2024-01-11.md",
-    "개발 일기장 (TIL)/2024_01/2024-01-10.md",
+    "Tech/Java/Java.md",
+    "Tech/Java",
+    "Tech/개발 일기장 (TIL)/2024_01/2024-01-11.md",
+    "Tech/개발 일기장 (TIL)/2024_01/2024-01-10.md",
     "Untitled.canvas",
     "개발 일기장 (TIL)/무제 파일.md",
     "Vault.md",
     "Untitled.md",
-    "개발 일기장 (TIL)/2024_01/2024_01.md",
+    "Tech/개발 일기장 (TIL)/2024_01/2024_01.md",
     "Spaces/Home",
     "Spaces",
     "README.md",
-    "개발 일기장 (TIL)/2024_01",
-    "개발 일기장 (TIL)"
+    "Tech/개발 일기장 (TIL)/2024_01",
+    "Tech/개발 일기장 (TIL)"
   ]
 }

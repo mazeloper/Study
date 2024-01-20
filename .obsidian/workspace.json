@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚Tech/CS/프로세스와 스레드.md",
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚Tech/CS/프로세스와 스레드.md",
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚Tech/CS/프로세스와 스레드.md",
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚Tech/CS/프로세스와 스레드.md"
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md"
               }
             }
           },
@@ -162,16 +162,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-temple:Temple": false
     }
   },
   "active": "ab47ea6e513eb4dc",
   "lastOpenFiles": [
+    "Pasted image 20240120165635.png",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-19.md",
+    "📚Tech/CS/프로세스와 스레드.md",
     "📚Tech/CS/CS.md",
     "📚Tech/CS",
-    "📚Tech/CS/프로세스와 스레드.md",
     "📚Tech/📚Tech.md",
-    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-19.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-14.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-15.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-17 (F-lab).md",
@@ -200,8 +203,6 @@
     "📚Tech/Java",
     "Untitled.canvas",
     "개발 일기장 (TIL)/무제 파일.md",
-    "Vault.md",
-    "📚Tech/개발 일기장 (TIL)/2024_01/2024_01.md",
     "Spaces/Home",
     "Spaces",
     "📚Tech/개발 일기장 (TIL)/2024_01",

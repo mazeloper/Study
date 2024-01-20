@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
+                "file": "📚Tech/CS/프로세스와 스레드.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
+                "file": "📚Tech/CS/프로세스와 스레드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
+                "file": "📚Tech/CS/프로세스와 스레드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md"
+                "file": "📚Tech/CS/프로세스와 스레드.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "ab47ea6e513eb4dc",
   "lastOpenFiles": [
+    "📚Tech/CS/CS.md",
+    "📚Tech/CS",
+    "📚Tech/CS/프로세스와 스레드.md",
     "📚Tech/📚Tech.md",
-    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-19.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-14.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-15.md",

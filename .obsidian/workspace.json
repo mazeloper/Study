@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15e22e2297512f2e",
+        "id": "b219f309b303ad6d",
         "type": "tabs",
         "children": [
           {
-            "id": "1546f1a361000a02",
+            "id": "ab47ea6e513eb4dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#자바의신",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,10 +165,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1546f1a361000a02",
+  "active": "ab47ea6e513eb4dc",
   "lastOpenFiles": [
-    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-19.md",
+    "📚Tech/📚Tech.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-19.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-14.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-15.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-17 (F-lab).md",
@@ -183,7 +184,6 @@
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-13.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-12.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-11.md",
-    "📚Tech/📚Tech.md",
     "📚Tech",
     "📚 Tech📚 TechNote/📚 Tech.md",
     "📚 Tech📚 Tech📚 Tech📚 TechTech/📚 Tech📚 Tech📚 Tech📚 TechTech.md",

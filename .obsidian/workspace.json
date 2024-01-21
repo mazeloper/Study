@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md"
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-21.md"
               }
             }
           },
@@ -168,8 +168,11 @@
   },
   "active": "ab47ea6e513eb4dc",
   "lastOpenFiles": [
-    "Pasted image 20240120165635.png",
+    "📚Tech/Java/basic/자바의 4대 특성.md",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-21.md",
+    "📚Tech/Java/basic/자바에서 가장 작은 단위는 뭘까요?.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
+    "Pasted image 20240120165635.png",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-19.md",
     "📚Tech/CS/프로세스와 스레드.md",
     "📚Tech/CS/CS.md",
@@ -181,7 +184,6 @@
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-16.md",
     "📚Tech/Java/basic/basic.md",
     "📚Tech/Java/basic",
-    "📚Tech/Java/basic/자바에서 가장 작은 단위는 뭘까요?.md",
     "📚Tech/Java/Untitlㅁㄴㅇㄹed.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-10.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/자바에서 가장 작은 단위는 뭐라고 할까요?.md",
@@ -202,7 +204,6 @@
     "📚Tech/Java/Java.md",
     "📚Tech/Java",
     "Untitled.canvas",
-    "개발 일기장 (TIL)/무제 파일.md",
     "Spaces/Home",
     "Spaces",
     "📚Tech/개발 일기장 (TIL)/2024_01",

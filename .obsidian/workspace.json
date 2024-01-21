@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-21.md",
+                "file": "📚Tech/Java/객체 지향 설계 5원칙.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-21.md",
+                "file": "📚Tech/Java/객체 지향 설계 5원칙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-21.md",
+                "file": "📚Tech/Java/객체 지향 설계 5원칙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-21.md"
+                "file": "📚Tech/Java/객체 지향 설계 5원칙.md"
               }
             }
           },
@@ -168,9 +168,10 @@
   },
   "active": "ab47ea6e513eb4dc",
   "lastOpenFiles": [
-    "📚Tech/Java/basic/자바의 4대 특성.md",
+    "📚Tech/Java/객체 지향 설계 5원칙.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-21.md",
-    "📚Tech/Java/basic/자바에서 가장 작은 단위는 뭘까요?.md",
+    "📚Tech/Java/basic/자바의 4대 특성.md",
+    "📚Tech/Java/자바에서 가장 작은 단위는 뭘까요?.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
     "Pasted image 20240120165635.png",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-19.md",
@@ -201,7 +202,6 @@
     "![[Pasted.md",
     "Pasted image 20240114171742.png",
     "Pasted image 20240114171735.png",
-    "📚Tech/Java/Java.md",
     "📚Tech/Java",
     "Untitled.canvas",
     "Spaces/Home",

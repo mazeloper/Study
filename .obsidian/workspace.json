@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚Tech/Java/객체 지향 설계 5원칙.md",
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#자바의신",
+                "query": "tag:#컬렉션",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚Tech/Java/객체 지향 설계 5원칙.md",
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚Tech/Java/객체 지향 설계 5원칙.md",
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚Tech/Java/객체 지향 설계 5원칙.md"
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-13.md"
               }
             }
           },
@@ -168,21 +168,22 @@
   },
   "active": "ab47ea6e513eb4dc",
   "lastOpenFiles": [
-    "📚Tech/Java/객체 지향 설계 5원칙.md",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-15.md",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-14.md",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-16.md",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-17 (F-lab).md",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-19.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-21.md",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-22.md",
+    "📚Tech/CS/프로세스와 스레드.md",
+    "📚Tech/Java/객체 지향 설계 5원칙.md",
     "📚Tech/Java/basic/자바의 4대 특성.md",
     "📚Tech/Java/자바에서 가장 작은 단위는 뭘까요?.md",
-    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-20.md",
     "Pasted image 20240120165635.png",
-    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-19.md",
-    "📚Tech/CS/프로세스와 스레드.md",
     "📚Tech/CS/CS.md",
     "📚Tech/CS",
     "📚Tech/📚Tech.md",
-    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-14.md",
-    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-15.md",
-    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-17 (F-lab).md",
-    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-16.md",
     "📚Tech/Java/basic/basic.md",
     "📚Tech/Java/basic",
     "📚Tech/Java/Untitlㅁㄴㅇㄹed.md",
@@ -199,7 +200,6 @@
     "README.md",
     "📚 Tech📚 TechTech/Tech.md",
     "📚 Tech📚 Tech📚 Tech📚 TechTech",
-    "![[Pasted.md",
     "Pasted image 20240114171742.png",
     "Pasted image 20240114171735.png",
     "📚Tech/Java",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚Tech/Java/\bCollection.md",
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚Tech/Java/\bCollection.md",
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚Tech/Java/\bCollection.md",
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚Tech/Java/\bCollection.md"
+                "file": "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-23.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "ab47ea6e513eb4dc",
   "lastOpenFiles": [
-    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-22.md",
     "📚Tech/Java/\bCollection.md",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-23.md",
+    "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-22.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-14.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-15.md",
     "📚Tech/개발 일기장 (TIL)/2024_01/2024-01-16.md",
@@ -197,7 +198,6 @@
     "📚 Tech📚 TechNote/📚 Tech.md",
     "📚 Tech📚 Tech📚 Tech📚 TechTech/📚 Tech📚 Tech📚 Tech📚 TechTech.md",
     "📚 Tech📚 TechNote",
-    "README.md",
     "📚 Tech📚 Tech📚 Tech📚 TechTech",
     "Pasted image 20240114171742.png",
     "Pasted image 20240114171735.png",
